@@ -7,7 +7,7 @@
     "location": "New Delhi, Delhi, India",
     "linkedin": "www.linkedin.com/in/somesh-dwivedi-a406aa209",
     "github": "github.com/somesh0106",
-    "summary": "I’m a passionate MERN Stack Developer with 2+ years of hands-on experience building scalable, user-friendly, and high-performance web applications. Skilled in MongoDB, Express.js, React.js, and Node.js, I thrive on transforming complex business requirements into seamless digital solutions.",
+    "summary": "MERN Stack Developer with 2+ years of experience building scalable, production-grade web applications using MongoDB, Express.js React.js, and Node.js. Experienced in designing RESTful APIs, implementing responsive front-end architectures, optimizing application performance, and working in Agile environments. Hands-on experience with cloud-based deployments, CI/CD awareness, and collaborative development in enterprise environments.",
     "highlights": [
       "Successfully delivered multiple projects from concept to deployment.",
       "Experienced in REST APIs, authentication, cloud deployment, and Git-based workflows.",
@@ -37,13 +37,13 @@
       ],
       "description": "As a MERN Stack Developer at Infosys, I have been responsible for designing, developing, and deploying scalable web applications that enhance client business processes and improve user experiences.",
       "bullets": [
-        "Developed end-to-end web applications using MongoDB, Express.js, React.js, and Node.js.",
-        "Built responsive and dynamic UIs with React, ensuring cross-browser compatibility and performance optimization.",
-        "Designed and implemented RESTful APIs for seamless integration with frontend applications and third-party services.",
-        "Optimized backend performance, improving API response time and overall application scalability.",
-        "Collaborated with cross-functional teams (designers, QA, and business analysts) in an Agile/Scrum environment to deliver features on time.",
-        "Worked with Git and cloud deployment (AWS) to streamline development and release cycles.",
-        "Ensured code quality and best practices through peer code reviews, testing, and documentation."
+       " Designed and developed scalable MERN stack applications serving enterprise-level users.",
+       " Built reusable and responsive UI components using React.js, improving page load performance.",
+       " Developed RESTful APIs using Node.js and Express.js with MongoDB for efficient data handling.",
+       " Optimized backend APIs and database queries, reducing response time and performance bottlenecks.",
+       " Collaborated with cross-functional teams in Agile environment to deliver features on time.",
+       " Conducted code reviews and enforced clean code and best development practices.",
+       " Contributed to CI/CD awareness and deployment workflows in enterprise applications.",
       ]
     },
     {
@@ -57,8 +57,14 @@
         }
       ],
       "bullets": [
-        "Worked as a Java Developer.",
-        "Played a crucial role in designing, developing and managing Java-based applications and software."
+        "Completed a 6-month hands-on internship focusing on Java Full Stack development.",
+        "Gained practical experience in Core Java, object-oriented programming (OOP), and backend development.",
+        "Developed web application components using Java, JSP, Servlets, HTML, CSS, and JavaScript.",
+        "Worked with relational databases using SQL for data storage and retrieval.",
+        "Learned end-to-end application flow including frontend, backend, and database integration.",
+        "Assisted in building and testing REST-style backend logic and CRUD operations.",
+        "Collaborated with mentors to understand application architecture, debugging techniques, and clean coding practices.",
+        "Improved understanding of full-stack development lifecycle and software engineering fundamentals."
       ]
     }
   ],
@@ -83,7 +89,7 @@
       "techStack": ["MongoDB", "Express.js", "React.js", "Node.js", "AWS"],
       "demoLink": "#",
       "repoLink": "https://github.com/somesh0106",
-      "image": "https://picsum.photos/seed/devtinder/600/400"
+      "image": "https://media.licdn.com/dms/image/v2/D5605AQFYuJb4vyWp8w/videocover-low/B56ZYFzURhHoCM-/0/1743854079873?e=2147483647&v=beta&t=Zz3uvrnvUjBM9Aa9gMGrdmxKRqe7w4z9SaXoehyEPiw"
     },
     {
       "title": "Food Delivery App",
@@ -91,31 +97,31 @@
       "techStack": ["React.js", "HTML5", "CSS3", "Bootstrap"],
       "demoLink": "#",
       "repoLink": "https://github.com/somesh0106",
-      "image": "https://picsum.photos/seed/fooddelivery/600/400"
+      "image": "https://shyamfuture.com/food-delivery-app-development-company-should-you-invest-on-an-online-food-delivery-app/?srsltid=AfmBOooXr8ce5PRBYD6p43S3ceNak6wFb3UUfXJZ8gFZr1a8T0hcJ74L"
     }
   ],
   "skills": [
-    {
-      "category": "Frontend",
-      "items": ["React.js", "HTML/CSS", "Responsive UI"]
+    {"category": "Languages & Frameworks",
+      "items":["JavaScript (ES6+)", "TypeScript", "React.js", "Redux", "Node.js", "Express.js", "HTML5", "CSS3", "Bootstrap"]
+       
     },
     {
-      "category": "Backend",
-      "items": ["Node.js", "Express.js", "Java", "Python"]
+      "category": "Databases",
+      "items": ["MongoDB", "SQL"," Oracle"]
     },
     {
-      "category": "Database & Cloud",
-      "items": ["MongoDB", "SQL", "Amazon S3", "AWS"]
+      "category": "Tools & Platforms",
+      "items": ["Git", "GitHub", "SVN", "Postman", "VS Code", "Chrome DevTools", "Robo 3T", "Firebase", "CI/CD (basic)", "Docker (exposure)"]
     },
     {
-      "category": "Tools & Methodologies",
-      "items": ["Git", "REST APIs", "Agile/Scrum", "Machine Learning"]
+      "category": "Concepts",
+      "items": ["RESTful APIs", "Microservices (basic)"", "System Design fundamentals", "OOP", "Data Structures & Algorithms", "Clean Code Principles", "Performance Optimization"]
     }
   ],
   "education": [
     {
       "institution": "Chandigarh Group of Colleges, Landran, Punjab",
-      "degree": "Bachelor of Technology - BTech, java IOT and android",
+      "degree": "Bachelor of Technology, Computer Science",
       "dates": "2017 - 2021"
     },
     {
@@ -133,6 +139,8 @@
   ],
   "certifications": [
     "Java developer",
-    "Python and machine learning"
+    "Python and machine learning",
+    "Android Developer",
+    "IOT"
   ]
 }
