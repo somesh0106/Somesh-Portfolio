@@ -86,7 +86,7 @@
     {
       "title": "DevTinder App",
       "description": "A full-stack MERN application enabling developers to discover and connect with nearby developers based on location. Implemented secure user authentication, RESTful APIs, Tinder-style swipe functionality, and real-time updates.",
-      "TechStack": ["MongoDB", "Express.js", "React.js", "Node.js", "AWS"],
+      "techStack": ["MongoDB", "Express.js", "React.js", "Node.js", "AWS"],
       "demoLink": "#",
       "repoLink": "https://github.com/somesh0106",
       "image": "https://media.licdn.com/dms/image/v2/D5605AQFYuJb4vyWp8w/videocover-low/B56ZYFzURhHoCM-/0/1743854079873?e=2147483647&v=beta&t=Zz3uvrnvUjBM9Aa9gMGrdmxKRqe7w4z9SaXoehyEPiw"
