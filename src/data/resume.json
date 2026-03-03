@@ -5,8 +5,8 @@
     "email": "somesh.dwivedi07@gmail.com",
     "phone": "+91 8847228626",
     "location": "New Delhi, Delhi, India",
-    "linkedin": "www.linkedin.com/in/somesh-dwivedi-a406aa209",
-    "github": "github.com/somesh0106",
+    "linkedin": "https://www.linkedin.com/in/somesh-dwivedi-a406aa209",
+    "github": "https://github.com/somesh0106",
     "summary": "MERN Stack Developer with 2+ years of experience building scalable, production-grade web applications using MongoDB, Express.js React.js, and Node.js. Experienced in designing RESTful APIs, implementing responsive front-end architectures, optimizing application performance, and working in Agile environments. Hands-on experience with cloud-based deployments, CI/CD awareness, and collaborative development in enterprise environments.",
     "highlights": [
       "Successfully delivered multiple projects from concept to deployment.",
@@ -43,7 +43,7 @@
        " Optimized backend APIs and database queries, reducing response time and performance bottlenecks.",
        " Collaborated with cross-functional teams in Agile environment to deliver features on time.",
        " Conducted code reviews and enforced clean code and best development practices.",
-       " Contributed to CI/CD awareness and deployment workflows in enterprise applications.",
+       " Contributed to CI/CD awareness and deployment workflows in enterprise applications."
       ]
     },
     {
@@ -86,7 +86,7 @@
     {
       "title": "DevTinder App",
       "description": "A full-stack MERN application enabling developers to discover and connect with nearby developers based on location. Implemented secure user authentication, RESTful APIs, Tinder-style swipe functionality, and real-time updates.",
-      "techStack": ["MongoDB", "Express.js", "React.js", "Node.js", "AWS"],
+      "TechStack": ["MongoDB", "Express.js", "React.js", "Node.js", "AWS"],
       "demoLink": "#",
       "repoLink": "https://github.com/somesh0106",
       "image": "https://media.licdn.com/dms/image/v2/D5605AQFYuJb4vyWp8w/videocover-low/B56ZYFzURhHoCM-/0/1743854079873?e=2147483647&v=beta&t=Zz3uvrnvUjBM9Aa9gMGrdmxKRqe7w4z9SaXoehyEPiw"
@@ -97,7 +97,7 @@
       "techStack": ["React.js", "HTML5", "CSS3", "Bootstrap"],
       "demoLink": "#",
       "repoLink": "https://github.com/somesh0106",
-      "image": "https://shyamfuture.com/food-delivery-app-development-company-should-you-invest-on-an-online-food-delivery-app/?srsltid=AfmBOooXr8ce5PRBYD6p43S3ceNak6wFb3UUfXJZ8gFZr1a8T0hcJ74L"
+      "image": "https://s3.envato.com/files/390502005/01_Preview.__large_preview.png"
     }
   ],
   "skills": [
