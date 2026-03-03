@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "Somesh Dwivedi",
+    "title": "Technology Analyst | MERN Stack Developer",
+    "email": "somesh.dwivedi07@gmail.com",
+    "phone": "+91 8847228626",
+    "location": "New Delhi, Delhi, India",
+    "linkedin": "www.linkedin.com/in/somesh-dwivedi-a406aa209",
+    "github": "github.com/somesh0106",
+    "summary": "I’m a passionate MERN Stack Developer with 2+ years of hands-on experience building scalable, user-friendly, and high-performance web applications. Skilled in MongoDB, Express.js, React.js, and Node.js, I thrive on transforming complex business requirements into seamless digital solutions.",
+    "highlights": [
+      "Successfully delivered multiple projects from concept to deployment.",
+      "Experienced in REST APIs, authentication, cloud deployment, and Git-based workflows.",
+      "Strong problem-solving skills with a focus on performance and scalability."
+    ]
+  },
+  "experience": [
+    {
+      "company": "Infosys",
+      "location": "Chandigarh, India",
+      "roles": [
+        {
+          "title": "Technology Analyst",
+          "dates": "April 2025 - Present",
+          "duration": "1 year"
+        },
+        {
+          "title": "Senior System Engineer",
+          "dates": "January 2024 - July 2025",
+          "duration": "1 year 7 months"
+        },
+        {
+          "title": "System Engineer",
+          "dates": "September 2021 - December 2023",
+          "duration": "2 years 4 months"
+        }
+      ],
+      "description": "As a MERN Stack Developer at Infosys, I have been responsible for designing, developing, and deploying scalable web applications that enhance client business processes and improve user experiences.",
+      "bullets": [
+        "Developed end-to-end web applications using MongoDB, Express.js, React.js, and Node.js.",
+        "Built responsive and dynamic UIs with React, ensuring cross-browser compatibility and performance optimization.",
+        "Designed and implemented RESTful APIs for seamless integration with frontend applications and third-party services.",
+        "Optimized backend performance, improving API response time and overall application scalability.",
+        "Collaborated with cross-functional teams (designers, QA, and business analysts) in an Agile/Scrum environment to deliver features on time.",
+        "Worked with Git and cloud deployment (AWS) to streamline development and release cycles.",
+        "Ensured code quality and best practices through peer code reviews, testing, and documentation."
+      ]
+    },
+    {
+      "company": "Allsoft Solutions and services Private Limited",
+      "location": "Mohali district, India",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "dates": "January 2021 - June 2021",
+          "duration": "6 months"
+        }
+      ],
+      "bullets": [
+        "Worked as a Java Developer.",
+        "Played a crucial role in designing, developing and managing Java-based applications and software."
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Scalable Solutions",
+      "description": "Contributed to scalable solutions that now support thousands of users daily."
+    },
+    {
+      "title": "Project Delivery",
+      "description": "Successfully delivered multiple projects that improved business efficiency and client satisfaction."
+    },
+    {
+      "title": "Performance Optimization",
+      "description": "Optimized backend performance, improving API response time and overall application scalability."
+    }
+  ],
+  "projects": [
+    {
+      "title": "DevTinder App",
+      "description": "A full-stack MERN application enabling developers to discover and connect with nearby developers based on location. Implemented secure user authentication, RESTful APIs, Tinder-style swipe functionality, and real-time updates.",
+      "techStack": ["MongoDB", "Express.js", "React.js", "Node.js", "AWS"],
+      "demoLink": "#",
+      "repoLink": "https://github.com/somesh0106",
+      "image": "https://picsum.photos/seed/devtinder/600/400"
+    },
+    {
+      "title": "Food Delivery App",
+      "description": "A responsive food ordering web application with real-time cart state updates. Built reusable modular UI components and implemented intuitive UX patterns for smooth navigation.",
+      "techStack": ["React.js", "HTML5", "CSS3", "Bootstrap"],
+      "demoLink": "#",
+      "repoLink": "https://github.com/somesh0106",
+      "image": "https://picsum.photos/seed/fooddelivery/600/400"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": ["React.js", "HTML/CSS", "Responsive UI"]
+    },
+    {
+      "category": "Backend",
+      "items": ["Node.js", "Express.js", "Java", "Python"]
+    },
+    {
+      "category": "Database & Cloud",
+      "items": ["MongoDB", "SQL", "Amazon S3", "AWS"]
+    },
+    {
+      "category": "Tools & Methodologies",
+      "items": ["Git", "REST APIs", "Agile/Scrum", "Machine Learning"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Chandigarh Group of Colleges, Landran, Punjab",
+      "degree": "Bachelor of Technology - BTech, java IOT and android",
+      "dates": "2017 - 2021"
+    },
+    {
+      "institution": "Kendriya Vidyalaya Sector 47 Chandigarh",
+      "degree": "Senior Secondary (Class 12th)",
+      "dates": "2016 – 2017",
+      "location": "Chandigarh, India"
+    },
+    {
+      "institution": "Kendriya Vidyalaya Sector 47 Chandigarh",
+      "degree": "Secondary (Class 10th)",
+      "dates": "2014 – 2015",
+      "location": "Chandigarh, India"
+    }
+  ],
+  "certifications": [
+    "Java developer",
+    "Python and machine learning"
+  ]
+}
