@@ -115,7 +115,7 @@
     },
     {
       "category": "Concepts",
-      "items": ["RESTful APIs", "Microservices (basic)"", "System Design fundamentals", "OOP", "Data Structures & Algorithms", "Clean Code Principles", "Performance Optimization"]
+      "items": ["RESTful APIs", "Microservices (basic)", "System Design fundamentals", "OOP", "Data Structures & Algorithms", "Clean Code Principles", "Performance Optimization"]
     }
   ],
   "education": [
