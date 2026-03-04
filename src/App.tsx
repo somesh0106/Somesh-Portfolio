@@ -162,7 +162,7 @@ function App() {
               <Contact />
 
               <footer className="py-12 text-center text-muted-foreground text-sm border-t border-border bg-background/50 backdrop-blur-lg">
-                <p>© {new Date().getFullYear()} {resumeData.basics.name}. Built with React & Tailwind.</p>
+                <p>© {new Date().getFullYear()} {resumeData.basics.name}</p>
               </footer>
             </motion.main>
           )}
